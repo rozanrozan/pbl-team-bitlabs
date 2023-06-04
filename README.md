@@ -19,4 +19,15 @@
 <p>Visualization : Looker Studio (<a href="https://lookerstudio.google.com/reporting/f7108010-d63e-4c9c-b010-46cc028a641a">Klik Disini</a>)</p>
 <p>Dataset : <a href="https://docs.google.com/spreadsheets/d/1-6Xt7d4Pa_Pk0Vc7Dl2IjR8iDqbHVdmA/edit?usp=sharing&ouid=116627426136462261898&rtpof=true&sd=true">Klik Disini</a> </p>
 
+## Project Introduction
 
+PBL (Project Based Learning) adalah proyek akhir bootcamp Data Analytics for Business di Bitlabs Academy yang dikerjakan secara tim. Dalam proyek ini, kami membantu sebuah perusahaan yang ingin mengembangkan bisnisnya dengan menyesuaikan target market yang dituju dengan mengetahui pola dalam transaksi data yang biasa dicapture dari tahun ke tahun. 
+
+<strong> Objectives </strong>
+<p> Adapun objective/target dari proyek ini yaitu:</p>
+<ul>
+  <li> Membuat bisnis model untuk meningkatkan transaksi penjualan </li>
+  <li> Menganalisis data menggunakan SQL. Dalam hal ini, ada beberapa hal yang harus di analisis berdasarkan permintaan perusahaan: </li>
+  <li> Membuat bisnis model untuk meningkatkan transaksi penjualan </li>
+  <li> Membuat visualisasi/dashboard laporan penjualan salicyl perusahaan </li>
+</ul>
