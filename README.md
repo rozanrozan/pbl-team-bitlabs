@@ -20,26 +20,26 @@
 
 ## Project Introduction
 
-PBL (Project Based Learning) adalah proyek akhir bootcamp Data Analytics for Business di Bitlabs Academy yang dikerjakan secara tim. Dalam proyek ini, kami membantu sebuah perusahaan yang ingin mengembangkan bisnisnya dengan menyesuaikan target market yang dituju dengan mengetahui pola dalam transaksi data yang biasa dicapture dari tahun ke tahun. 
+PBL (Project Based Learning) Team is the final project of Data Analytics for Business bootcamp at Bitlabs Academy that is done in a team. In this project, we help a company that wants to develop its business by adjusting the intended target market by knowing the patterns in data transactions that are commonly captured from year to year.
 
 <br>
 
 <strong> Objectives </strong>
-<p> Adapun objective/target dari proyek ini yaitu:</p>
+<p> The objective/target of this project is:</p>
 <ul>
-  <li> Membuat bisnis model untuk meningkatkan transaksi penjualan </li>
-  <li> Menganalisis data menggunakan SQL berdasarkan permintaan stakeholders
+  <li> Creating a business model to improve sales transactions </li>
+  <li> Analyze data using SQL based on stakeholders
     <ul>
-      <li>A1 : Stakeholder ingin mengetahui Top 5 Category dengan Revenue tertinggi dari keseluruhan data yang diberikan namun harus dipastikan data tersebut non refund, sehingga dapat mengetahui category mana yang paling menguntungkan dalam periode tersebut</li>
-      <li>A2 : Stakeholder ingin mengetahui Top 5 Category dengan total transaksi tertinggi dari keseluruhan data yang diberikan sehingga dapat mengetahui category apa yang dominan diinginkan buyers dalam periode tersebut</li>
-      <li>A3 : Stakeholder ingin mengetahui trend perkembangan GMV YoY perusahaan X pada Q1 2018, Q1 2019, dan Q1 2020 untuk 4 kategori yang ingin diprioritaskan: Agriculture & Food, Horeca, Machinery & Industrial Parts, Computer & Communication</li>
-      <li>B1 : Stakeholder ingin mengetahui Success Order Rate tiap order dilakukan dari tahap order yang dilakukan oleh buyer sampai dengan tahap settlement yang diproses oleh internal Perusahaan X</li>
-      <li>C1 : Stakeholder ingin mengetahui jumlah buyer berdasarkan Bucket Size, dia membagi total buyer berdasarkan GMV dan Total Transaksi yang tercatat pada Q1 2018, Q1 2019, Q1 2020 dengan beberapa kelompok untuk melihat proporsi buyers Perusahaan X seperti apa. </li>
-      <li>C2 : Stakeholder ingin melakukan kerja sama dengan fintech company untuk mempermudah users dalam bertransaksi. Student diminta untuk melakukan comparison analysis terhadap pembayaran yang dilakukan melalui Bank Transfer, TOP, atau e – Wallet.</li>
+      <li>A1 : Stakeholders want to know the Top 5 categories with the highest Revenue from the overall data provided but it must be ensured that the data is non-refundable, so they can find out which category is the most profitable in that period</li>
+      <li>A2 : Stakeholders want to know the Top 5 categories with the highest total transactions from the overall data provided so that they can find out what categories dominant buyers want in that period</li>
+      <li>A3 : Stakeholders want to know the development trend of GMV YoY of Company X in Q1 2018, Q1 2019, and Q1 2020 for 4 categories to be prioritized: Agriculture & Food, Horeca, Machinery & Industrial Parts, Computer & Communication</li>
+      <li>B1 : Stakeholders want to know the Success rate of each order made from the order stage carried out by the buyer to the settlement stage processed by the internal company X</li>
+      <li>C1 : The Stakeholder wants to know the number of buyers based on Bucket Size, he divides the total buyers based on GMV and Total transactions recorded in Q1 2018, Q1 2019, and Q1 2020 with several groups to see what the proportion of Company X buyers is like. </li>
+      <li>C2 : Stakeholders want to work with fintech companies to protect users in transactions. Students are asked to perform a comparative analysis of payments made via bank Transfer, TOP, or e-Wallet</li>
     </ul>
   </li>
-  <li> Menganalisis data menggunakan Python </li>
-  <li> Membuat visualisasi/dashboard menggunakan Looker Studio </li>
+  <li> Analyzing data using Python </li>
+  <li> Create visualizations/dashboards using Looker Studio </li>
 </ul>
 
 
