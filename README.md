@@ -12,7 +12,7 @@
         <li>C2 : (<a href="https://console.cloud.google.com/bigquery?sq=889224908686:3ba7cdf890fb44ccbfb51d9e6f63c0d8">Klik Disini</a>)</li>
       </ul>
     </li>
-    <li>Python Notebook : (<a href="https://colab.research.google.com/drive/1vadLnz5vBkqePPFSUAntlIXjSy1963cA?usp=sharing">Klik Disini</a></li>
+    <li>Python Notebook : (<a href="https://colab.research.google.com/drive/1vadLnz5vBkqePPFSUAntlIXjSy1963cA?usp=sharing">Klik Disini)</a></li>
     <li>Visualization : Looker Studio (<a href="https://datastudio.google.com/reporting/4f7a483e-aa89-44e5-a34b-f3c5681e9321">Klik Disini</a>)</li>
   </ul>
 </p>
