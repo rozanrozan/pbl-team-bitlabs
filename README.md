@@ -42,4 +42,7 @@ PBL (Project Based Learning) Team is the final project of Data Analytics for Bus
   <li> Create visualizations/dashboards using Looker Studio </li>
 </ul>
 
+<br>
 
+<strong> Datasets </strong>
+<p> This data set is provided by recruitment partners. So, I'm not allowed to provide the dataset in full.</p>
